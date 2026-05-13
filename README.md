@@ -6,7 +6,7 @@ An AI-powered Code Review application that analyzes your code and provides intel
 
 ## live demo
 
-* [live ](https://code-review-main-mu.vercel.app/)
+* [live website ](https://code-review-main-mu.vercel.app/)
 
 ---
 
