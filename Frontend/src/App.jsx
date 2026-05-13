@@ -34,7 +34,7 @@ function App() {
       setReview("Reviewing your code...")
 
       const response = await axios.post(
-        'https://code-review-main-2.onrender.com',
+        'https://code-review-main-2.onrender.com/ai/get-review',
         { code }
       )
 
