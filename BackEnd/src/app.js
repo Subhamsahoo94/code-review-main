@@ -6,7 +6,7 @@ const app = express()
 
 app.use(
   cors({
-    origin: "https://code-review-main-mu.vercel.app/"
+    origin: "https://code-review-main-mu.vercel.app"
   })
 )
 
