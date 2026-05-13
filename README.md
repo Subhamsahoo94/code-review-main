@@ -205,7 +205,7 @@ app.use(
 
 # 📸 Screenshots
 
-[homepage](https://github.com/Subhamsahoo94/code-review-main/blob/main/Screenshot%202026-05-13%20235419.png)
+(https://github.com/Subhamsahoo94/code-review-main/blob/main/Screenshot%202026-05-13%20235419.png)
 
 ---
 
