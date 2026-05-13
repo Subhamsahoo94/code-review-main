@@ -205,7 +205,7 @@ app.use(
 
 # 📸 Screenshots
 
-(https://github.com/Subhamsahoo94/code-review-main/blob/main/Screenshot%202026-05-13%20235419.png)
+![App Screenshot](./Screenshot%202026-05-13%20235419.png)
 
 ---
 
@@ -219,8 +219,4 @@ Subham sahoo
 
 If you like this project, give it a ⭐ on GitHub.
 
----
 
-# 📄 License
-
-This project is licensed under the MIT License.
